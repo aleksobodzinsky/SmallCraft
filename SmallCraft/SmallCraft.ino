@@ -607,7 +607,7 @@ bool CommandProcessing(WiFiClient& client, const char* message) {
   switch (message[1]) {
     case 'f':
       FlashLED(10);
-      SendGlobalChatMessage("Pi", "Flashed LED!", '7');
+      SendGlobalChatMessage("ESP32", "Flashed LED!", '7');
       break;
     default:
       break;
