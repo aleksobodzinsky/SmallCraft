@@ -169,9 +169,9 @@ int32_t GetBlockIndex(int32_t x, int8_t z, int32_t y) {
 void FlashLED(int32_t time = 0) {
   // If your board has inverted LED logic: use LOW to turn ON, HIGH to turn OFF.
   // For normal logic: swap LOW and HIGH.
-  digitalWrite(LED_BUILTIN, LOW);   
+  digitalWrite(LED_BUILTIN, HIGH);   
   delay(time);                      
-  digitalWrite(LED_BUILTIN, HIGH);  
+  digitalWrite(LED_BUILTIN, LOW);  
 }
 
 int8_t ReadByte(WiFiClient& client) {
