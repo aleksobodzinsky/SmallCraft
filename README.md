@@ -3,11 +3,11 @@
 Bare-bones Minecraft server for ESP32.
 
 ## Features
-. 16x16x16 world
-. Multiplayer
-. Block placement and breaking
-. Full world synchronization
-. Chat
+- 16x16x16 world
+- Multiplayer
+- Block placement and breaking
+- Full world synchronization
+- Chat
 
 ## How to use
 1. Download `SmallCraft.ino`
