@@ -17,5 +17,9 @@ Bare-bones Minecraft server for ESP32.
 
 ## Screenshots
 
+# DOIT ESP32 DEVKIT V1
+
 <img width="856" height="512" alt="house" src="https://github.com/user-attachments/assets/6650fea7-c2f9-4fd2-b915-2886f77d59f5" />
+
+# MakerGO ESP32-C3 Supermini (very unstable and not recommended, can even crash your game if it decides to (for some reason) and even crash itself)
 
