@@ -21,5 +21,8 @@ Bare-bones Minecraft server for ESP32.
 
 <img width="856" height="512" alt="house" src="https://github.com/user-attachments/assets/6650fea7-c2f9-4fd2-b915-2886f77d59f5" />
 
-# MakerGO ESP32-C3 Supermini (very unstable and not recommended, can even crash your game if it decides to (for some reason) and even crash itself)
+# MakerGO ESP32-C3 Supermini (very unstable and not recommended, crashes alot)
+
+<img width="856" height="512" alt="glasspillar" src="https://github.com/user-attachments/assets/660ffe5a-c9af-4907-a708-f270f5d4f3dc" />
+
 
