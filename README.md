@@ -18,6 +18,8 @@ Bare-bones Minecraft server for ESP32.
 # TinyCraft
 
 This subversion exists to stabilize SmallCraft on less powerful boards (e.g C3 Supermini)
+
+
 THIS IS NOT MEANT FOR OTHER BOARDS!
 
 Changes from SmallCraft:
