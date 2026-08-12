@@ -621,14 +621,12 @@ bool CommandProcessing(WiFiClient& client, const char* message) {
   return true;
 }
 
-// =================== ИСПРАВЛЕННАЯ ФУНКЦИЯ ===================
 void ProcessClient(WiFiClient& client, struct Player& p) {
   p.hasSentPacket = false;
   if (client.available()) {
     char packetType = client.read();
     p.hasSentPacket = true;
 
-    // Проверяем, является ли пакет валидным
     bool isValid = false;
     switch (packetType) {
       case KeepAlive:
@@ -690,13 +688,11 @@ void ProcessClient(WiFiClient& client, struct Player& p) {
         isValid = true;
         break;
       default:
-        // Игнорируем мусор
         Serial.print("Ignoring invalid packet: 0x");
         Serial.println(packetType, HEX);
         return;
     }
 
-    // Если пакет валидный — обрабатываем
     switch (packetType) {
       case LoginRequest:
         p.connectionStage = Login;
