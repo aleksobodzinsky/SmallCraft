@@ -7,7 +7,7 @@
  * Features multiplayer, 16x16x16 world size, flat world generation,
  * 9 blocks to choose from, block breaking and placing.
  * @note      Target Client Version: Minecraft Beta 1.7.3
- * Tested platforms: DOIT ESP32 DEVKIT V1, MakerGO ESP32-C3 Supermini
+ * Tested platforms: DOIT ESP32 DEVKIT V1
  */
 
 #include <WiFi.h>
