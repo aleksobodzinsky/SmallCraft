@@ -17,16 +17,22 @@ Bare-bones Minecraft server for ESP32.
 
 ## Screenshots
 
-## DOIT ESP32 DEVKIT V1
+# DOIT ESP32 DEVKIT V1
 
 <img width="856" height="512" alt="house" src="https://github.com/user-attachments/assets/6650fea7-c2f9-4fd2-b915-2886f77d59f5" />
 
-## DOIT ESP32 DEVKIT V1 via Fold Craft Launcher (Android, Samsung A53)
-<img width="2400" height="1080" alt="Screenshot_20260811_180538_Fold%20Craft%20Launcher" src="https://github.com/user-attachments/assets/11b3c7cf-1d73-41c7-bf14-c6228490d596" />
+# DOIT ESP32 DEVKIT V1 via Fold Craft Launcher (Android, Samsung A53)
+
+<img width="2400" height="1080" alt="FoldCraft" src="https://github.com/user-attachments/assets/6a997618-23f2-4470-bd4f-da7d021a15fa" />
 
 
-## MakerGO ESP32-C3 Supermini (very unstable and not recommended, crashes alot)
+
+# MakerGO ESP32-C3 Supermini 
+## SmallCraft (very unstable)
 
 <img width="856" height="512" alt="glasspillar" src="https://github.com/user-attachments/assets/660ffe5a-c9af-4907-a708-f270f5d4f3dc" />
 
+## TinyCraft
+
+<img width="856" height="512" alt="House2" src="https://github.com/user-attachments/assets/8c4a2c4a-90ce-4533-a417-30276b47c4ff" />
 
