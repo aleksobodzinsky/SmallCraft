@@ -15,6 +15,21 @@ Bare-bones Minecraft server for ESP32.
 3. Upload to ESP32
 4. Connect with Minecraft Beta 1.7.3 to the ESP32's IP
 
+# TinyCraft
+
+This subversion exists to stabilize SmallCraft on less powerful boards (e.g C3 Supermini)
+THIS IS NOT MEANT FOR OTHER BOARDS!
+
+Changes from SmallCraft:
+- Added validation of incoming packets to ignore garbage bytes
+- Optimized memory usage
+- Reduced world size (optional, currently 16x16x16)
+- Focus on stability, not features
+
+## How to use
+
+Same as SmallCraft.
+
 ## Screenshots
 
 # DOIT ESP32 DEVKIT V1
