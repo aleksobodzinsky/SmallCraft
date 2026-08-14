@@ -15,6 +15,10 @@ Bare-bones Minecraft server for ESP32.
 3. Upload to ESP32
 4. Connect with Minecraft Beta 1.7.3 to the ESP32's IP
 
+## Tested boards:
+- DOIT ESP32 DEVKIT V1
+- MuseLabs nanoESP32-C6
+
 # TinyCraft
 
 This subversion exists to stabilize SmallCraft on less powerful boards (e.g C3 Supermini)
@@ -31,6 +35,9 @@ Changes from SmallCraft:
 ## How to use
 
 Same as SmallCraft.
+
+## Tested boards:
+- MakerGO ESP32-C3 Supermini
 
 ## Screenshots
 
