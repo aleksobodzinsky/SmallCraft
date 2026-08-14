@@ -53,3 +53,6 @@ Same as SmallCraft.
 
 <img width="856" height="512" alt="House2" src="https://github.com/user-attachments/assets/8c4a2c4a-90ce-4533-a417-30276b47c4ff" />
 
+# nanoESP32-C6
+
+<img width="856" height="512" alt="house3" src="https://github.com/user-attachments/assets/eee19a2e-570e-4797-bd73-838d230a0a21" />
