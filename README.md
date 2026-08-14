@@ -15,7 +15,7 @@ Bare-bones Minecraft server for ESP32.
 3. Upload to ESP32
 4. Connect with Minecraft Beta 1.7.3 to the ESP32's IP
 
-## Tested boards:
+# Tested boards:
 - DOIT ESP32 DEVKIT V1
 - MuseLabs nanoESP32-C6
 
@@ -32,7 +32,7 @@ Changes from SmallCraft:
 - Reduced world size (optional, currently 16x16x16)
 - Focus on stability, not features
 
-## How to use
+# How to use
 
 Same as SmallCraft.
 
