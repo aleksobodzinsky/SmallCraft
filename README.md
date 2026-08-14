@@ -36,7 +36,7 @@ Changes from SmallCraft:
 
 Same as SmallCraft.
 
-## Tested boards:
+# Tested boards:
 - MakerGO ESP32-C3 Supermini
 
 ## Screenshots
